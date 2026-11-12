@@ -1,0 +1,8 @@
+benchmark_baseline
+benchmark_starter
+fuzz_compare
+*.json
+!data/sample_*.json
+data/big_*
+data/adv_*
+data/dyn_*
